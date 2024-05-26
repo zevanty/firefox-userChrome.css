@@ -4,6 +4,6 @@
 3. In the opened window, look for the `chrome` folder. Create one if it does not exist (or just copy the folder from this git repo).
 4. Add `userChrome.css` file to that folder.
 
-Credits are located in `userChrome.css`. Style is current as of Firefox v103.
+Credits are located in `userChrome.css`. Style is current as of Firefox v126.
 
 **Note:** If the UI still looks weird, the style may have changed in the latest Firefox version. Check the links in the `userChrome.css` to see if there is an update.
